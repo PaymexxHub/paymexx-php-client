@@ -24,6 +24,6 @@ The Paymexx PHP library allows you to write php code to consume Paymexx APIs. Yo
 
 # Get Started
 
-To get started using Paymexx-PHP-Client visit [here](https://github.com/PaymexxHub/paymexx-php-client/tree/master/examples "Paymexx API PHP examples") here to see code examples.
+To get started using Paymexx-PHP-Client visit [here](https://github.com/PaymexxHub/paymexx-php-client/tree/master/examples "Paymexx API PHP examples") to see code examples.
 
 
