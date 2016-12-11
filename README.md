@@ -11,6 +11,7 @@ The Paymexx PHP library allows you to write php code to consume Paymexx APIs. Yo
 * invoicetypes
 * settlements
 * account
+* addcard
 
 # Requirements
 * > PHP 5.5.3
