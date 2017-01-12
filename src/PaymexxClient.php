@@ -146,10 +146,10 @@ class PaymexxClient{
         $query = '';
         if(!empty($params)){
             foreach($params as $key=>$val){
-               $query .= $key.'='.$val; 
+               $query .= $key.'='.$val.'&'; 
             }
         }
-        return $query;
+        return rtrim($query,'&');
     }
     
     /**
