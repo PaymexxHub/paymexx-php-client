@@ -161,8 +161,8 @@ class PaymexxClient{
         foreach ($fields as $key => $value) {
             $fields_string .= $key . '=' . $value . '&';
         }
-        rtrim($fields_string, '&');
-        return $fields_string;
+        return rtrim($fields_string, '&');
+       
     }
 
      /**
